@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![hanabi1224's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanabi1224&show_icons=true&theme=vue-dark)](https://github.com/hanabi1224/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanabi1224&show_icons=true&theme=vue-dark)
+
 <!--
 **hanabi1224/hanabi1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
